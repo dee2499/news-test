@@ -48,5 +48,13 @@ This API aggregates articles from the following sources:
 ## Installation
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/news-aggregator-api.git
-cd news-aggregator-api
+git clone https://github.com/dee2499/news-test.git
+cd news-test
+
+###Install Dependencies
+```bash
+composer install
+
+###Set Up Environment Variables
+Copy the .env.example file to .env and fill in the required fields:
+cp .env.example .env
