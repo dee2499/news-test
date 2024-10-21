@@ -32,7 +32,7 @@ The News Aggregator API is a Laravel-based RESTful API that aggregates articles 
   - Regularly fetch articles from multiple news APIs and store them locally.
 
 ## Requirements
-- PHP >= 8.0
+- PHP >= 8.2
 - Composer
 - MySQL or compatible database
 - Docker (optional for containerized setup)
@@ -48,7 +48,7 @@ This API aggregates articles from the following sources:
 ## Installation
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/news-aggregator-api.git
+git clone https://github.com/dee2499/news-test.git
 cd news-aggregator-api
 ```
 
@@ -84,7 +84,7 @@ To run the application in a Docker container, ensure you have Docker and Docker 
 
 ### Build and Run Docker
 ```bash
-docker-compose up -d
+docker-compose up -d 
 ```
 
 ### Access the Application
