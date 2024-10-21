@@ -13,7 +13,6 @@ The News Aggregator API is a Laravel-based RESTful API that aggregates articles 
 - [API Authentication](#api-authentication)
 - [Testing](#testing)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
